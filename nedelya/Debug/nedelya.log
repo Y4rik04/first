@@ -1,0 +1,4 @@
+﻿  nedelya.cpp
+D:\Myprojects\nedelya\nedelya\nedelya.cpp(36,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Myprojects\nedelya\nedelya\nedelya.cpp(37,13): warning C4018: <: несоответствие типов со знаком и без знака
+  nedelya.vcxproj -> D:\Myprojects\nedelya\Debug\nedelya.exe
